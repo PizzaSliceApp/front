@@ -22,7 +22,7 @@
     "noUnusedParameters": true,
     "baseUrl": ".",
     "paths": {
-      "@components/*": ["./src/components/*"],
+      "@modules/*": ["./src/modules/*"],
       "@common/*": ["./src/common/*"],
       "@app/*": ["./src/*"]
     }
