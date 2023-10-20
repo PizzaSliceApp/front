@@ -1,6 +1,7 @@
-import image from '../../../assets/images/pizza.jpg';
-import { MenuItemImage } from './menu-item-image.component';
 import { FC } from 'react';
+
+import image from '../../../../assets/images/pizza.jpg';
+import { MenuItemImage } from './menu-item-image.component';
 
 interface MenuItemProps {
   id: number;
